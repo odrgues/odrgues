@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">Hello :)</h1>
+<br/>
 
-<!--
-**odrgues/odrgues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="inline">
+  <im alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
+</div>
+<div align="center" style="display: inline_block">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=odrgues&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrgues&layout=compact&theme=one_dark_pro&langs_count=7">
+</div>
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+<div align="center">
+   <img height="180em" width:"50%" src="https://github-readme-streak-stats.herokuapp.com/?user=odrgues&theme=one_dark_pro">
+</div>
+<hr/>
+
+<div style="display: inline_block;" align="center">
+  <h3>Social Media:</h3>
+  <a href="https://www.linkedin.com/in/jessica-rodrigues-18aaa8266/">
+    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
+  </a>
+</div>
+
+  
