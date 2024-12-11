@@ -2,15 +2,17 @@
 <br/>
 
 <div align="inline">
-  <im alt="Made by X-design, posted on Pinterest" src="https://user-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
+  <im alt="Made by X-design, posted on Pinterest" src="https://odrgues-images.githubusercontent.com/54647722/172732931-6c1ddfb0-d146-492b-b523-680f3ea408c7.gif">
 
 <div>
   <div align="center" style="display: inline_block">
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=odrgues&show_icons=true&theme=one_dark_pro&include_all_commits=true&count_private=true"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrgues&layout=compact&langs_count=7&theme=one_dark_pro"/>
+<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=odrgues&layout=compact&theme=one_dark_pro"/>
 </div>
 <br/>
+
+
 
 <hr/>
 <div align="center">
