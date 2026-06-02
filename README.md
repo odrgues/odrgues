@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hello :)</h1>
 
-<!--
-**odrgues/odrgues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/odrgues/odrgues/main/assets/hello-kitty.gif" height="80" alt="Hello Kitty" />
+</div>
+
+<br><br/>
+
+<hr/>
+
+<div align="center">
+  <h3>Social Media:</h3>
+  <a href="https://www.linkedin.com/in/jessica-rodrigues-18aaa8266/">
+    <img height="60em" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg?raw=true" alt="LinkedIn" />
+  </a>
+</div>
