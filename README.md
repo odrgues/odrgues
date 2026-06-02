@@ -9,7 +9,7 @@
 <br><br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/odrgues/odrgues/main/assets/hello-kitty.gif" height="80" alt="Hello Kitty" />
+  <img src="./assets/hello-kitty.gif" height="80" alt="Hello Kitty" />
 </div>
 
 <br><br/>
